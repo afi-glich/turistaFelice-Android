@@ -42,8 +42,8 @@ public class Constants {
 
     public static final String FILE_NAME = "Planning.txt";
 
-    public static final String PLACES_API_KEY = "AIzaSyA7dXY8vgfrszBzNKq9x6PmPQcEuwZ69R8";
-    public static final String PLACES_API_KEY_PLANNING = "AIzaSyBLD7suuQIGEpkDWmG_pSd4FqfNrX5w7DM";
+    public static final String PLACES_API_KEY = "key here";
+    public static final String PLACES_API_KEY_PLANNING = "key here";
     public static final String PLACES_API_BASE_URL = "https://maps.googleapis.com/maps/api/place/nearbysearch/";
     public static final String WIKI_API_BASE_URL_EN = "https://en.wikipedia.org/w/api.php/";
     public static final String WIKI_API_BASE_URL_IT = "https://it.wikipedia.org/w/api.php/";
