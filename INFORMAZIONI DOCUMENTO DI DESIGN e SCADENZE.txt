@@ -1,0 +1,22 @@
+DOCUMENTO DI DESIGN e SCADENZE
+4-5 paginette a detta della prof, no km di frasi
+
+Consegna entro il 18 giugno, lo carica uno solo del gruppo
+
+Contiene organizzazione generale del nostro progetto, con servizi esterni e librerie esterne
+	schemino componenti andorid con le attività, fragment x fa pippo, fragment y fa pluto, abbiamo usato API che servono a....
+	modalità scrittura informale, che descrive cosa fanno praticamente le cose implementate
+	NO pezzi di codice copiati e incollati nel documento
+
+Obiettivo: spiega le funzionalità che deve offrire (spunti da pdf offerto dalla prof)
+	questa app permette di bla bla bla, dal punto di vista informale, (uno use-case se si vuole con formalità)
+
+Discussione progetto il 25 giugno (anche il 26 e 27 causa grande quantità di gruppi) con repository git pronto
+	pensare ad una reword (?-penso intenda una funzionalità carina) da far vedere
+	primi 2 minuti di tempo per far vedere le slide, use case/punti elenco e componenti realizzati
+	fare una demo dell'applicazione, condividendo schermo per far vedere che l'app funziona
+	toccare tutte le funzionalità implementate
+	possiamo dire anche ciò che è andato storto, ho avuto difficoltà qui, qui e qui
+	dopo la demo facciamo vedere alcune cose nel repository a richiesta del prof
+
+!!! commentare il codice per spiegarne il funzionamento, uso nomi variabili sensate !!!

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_around">
+
+    <fragment
+        android:id="@+id/navigation_around"
+        android:name="com.marco.turistafelicetest.ui.around.AroundFragment"
+        android:label="@string/title_around"
+        tools:layout="@layout/fragment_around" />
+
+    <fragment
+        android:id="@+id/navigation_timeline"
+        android:name="com.marco.turistafelicetest.ui.timeline.TimelineFragment"
+        android:label="@string/title_timeline"
+        tools:layout="@layout/fragment_timeline" >
+        <action
+            android:id="@+id/showTripDetailsAction"
+            app:destination="@id/fragment_trip_detail" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.marco.turistafelicetest.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/fragment_trip_detail"
+        android:name="com.marco.turistafelicetest.ui.timeline.TripDetailsFragment"
+        android:label="@string/trip_details_name"
+        tools:layout="@layout/fragment_trip_details" >
+        <argument
+            android:name="trip"
+            app:argType="com.marco.turistafelicetest.models.Trip" />
+    </fragment>
+</navigation>

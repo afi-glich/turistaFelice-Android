@@ -1,0 +1,5 @@
+.png paint
+
+Lista di tante card quanti viaggi
+
+Card viaggi futuri con matitina in basso a dx per modifica

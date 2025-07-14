@@ -1,0 +1,5 @@
+Bottone preferiti a stellina alto dx, collegamento ad un fragment a parte
+
+Edit del nome con bottone a matita
+
+Aggiungere tipologie di POI

@@ -1,0 +1,8 @@
+-ESPLORA: barra di ricerca in alto (con foto per il profilo?), bottone riposiziona, filtro attrazioni, mappa dove vengono mostrati i luoghi d'interesse con un pallino che se premuto mostra foto e breve descrizione (lettura audio) + link a wikipedia per maggiori informazioni.
+-NEI DINTORNI: luoghi (cards) raggiungibili a piedi nelle vicinanze con immagine e breve descrizione + bottoni 'naviga(freccetta) e aggiungi al mio viaggio (più)', bottone filtra.
+-PIANIFICAZIONE: gestione viaggio futuro con data, luoghi, orari ecc
+-PROFILO: Account con countdown per attrazioni, viaggi futuri (tab sx), viaggi passati (tab dx), gestione prferiti con bottone filtra (chips), bottone ricerca.
+-IMPOSTAZIONI: gestione lingua, unità di misura, gestione notifiche (quantità) ecc
+
+
+-ALTRO: Meteo

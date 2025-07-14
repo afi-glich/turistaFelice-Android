@@ -1,0 +1,8 @@
+Titolo della pianificazione
+
+Città
+
+Data di partenza
+Data di ritorno
+
+Ordine delle attrazioni da visitare con checkbox e bottone "naviga"

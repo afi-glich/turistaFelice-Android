@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Happy Tourist</string>
+    <string name="title_around">Around</string>
+    <string name="title_timeline">Timeline</string>
+    <string name="title_profile">Profile</string>
+    <string name="text_POI">Select point of interest</string>
+    <string name="checkbox_bakery">Bakery</string>
+    <string name="checkbox_bar">Bar</string>
+    <string name="checkbox_bus_station">Bus station</string>
+    <string name="checkbox_aquarium">Aquarium</string>
+    <string name="checkbox_museum">Museum</string>
+    <string name="checkbox_church">Church</string>
+    <string name="checkbox_tourist_attraction">Tourist attraction</string>
+    <string name="checkbox_art_gallery">Art gallery</string>
+    <string name="checkbox_atm">ATM</string>
+    <string name="checkbox_car_rental">Car rental</string>
+    <string name="checkbox_embassy">Embassy</string>
+    <string name="checkbox_gas_station">Gas station</string>
+    <string name="checkbox_hindu_temple">Hindu temple</string>
+    <string name="checkbox_hospital">Hospital</string>
+    <string name="checkbox_light_rail_station">Light rail station</string>
+    <string name="checkbox_local_government_office">Local government office</string>
+    <string name="checkbox_mosque">Mosque</string>
+    <string name="checkbox_park">Park</string>
+    <string name="checkbox_pharmacy">Pharmacy</string>
+    <string name="checkbox_stadium">Stadium</string>
+    <string name="checkbox_store">Store</string>
+    <string name="checkbox_subway_station">Subway station</string>
+    <string name="checkbox_synagogue">Synagogue</string>
+    <string name="checkbox_train_station">Train station</string>
+    <string name="checkbox_zoo">Zoo</string>
+    <string name="profile_image">Profile image</string>
+    <string name="insert_your_name">Insert your name</string>
+    <string name="your_next_trip">Your next trip</string>
+    <string name="change_picture">Change picture</string>
+    <string name="no_future_trip">No future trip</string>
+    <string name="set_your_name_and_than_press_the_button_below">Set your name and than press the button below.</string>
+    <string name="set_name">Set name</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="around_infowindow_taptoadd">Tap here to more options</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="checkbox_cafe">Cafe</string>
+    <string name="checkbox_touristAttraction">Tourists attraction</string>
+    <string name="insert_a_title_for_your_trip">Insert a title for your trip</string>
+    <string name="title">Title</string>
+    <string name="set">Set</string>
+    <string name="insert_the_city_to_visit">Insert the city to visit</string>
+    <string name="city">City</string>
+    <string name="select_the_departure_date">Select the departure date</string>
+    <string name="departure_date">Departure</string>
+    <string name="select_the_return_date">Select the return date</string>
+    <string name="return_date">Return</string>
+    <string name="add">Add</string>
+    <string name="insert_your_point_of_interest">Insert your point of interest</string>
+    <string name="planning_snackbar_travel_information">Are you traveling in the past?</string>
+    <string name="planning_snackbar_missing_information">Set departure date</string>
+    <string name="data_missing">Missing data</string>
+    <string name="trip_title">Trip Name</string>
+    <string name="planning">Planning</string>
+    <string name="set_your_name_planning">Set your name</string>
+    <string name="set_city">Set city</string>
+    <string name="title_trip">Title trip</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="trip_details_name">Trip Details</string>
+    <string name="timeline_item_destination">Destination</string>
+    <string name="trip_detail_fragment_place">Place Name</string>
+    <string name="trip_detail_fragment_poi">Points of Interest</string>
+    <string name="timeline_delete_success">Element removed from timeline</string>
+    <string name="timeline_delete_fail">Something went wrong</string>
+
+    <string name="around_mainwindow_notype">No Type Found</string>
+    <string name="around_infowindow_nowiki">No Wiki PageFound</string>
+    <string name="around_add_existing">Add to existing trip</string>
+    <string name="around_go_wiki">Open Wikipedia</string>
+    <string name="around_choose">Choose Option</string>
+    <string name="around_no_trips">No trip found</string>
+    <string name="around_perm_pos">Position is required to look for places around you</string>
+    <string name="around_choose_trip">Choose trip</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="around_add_favorites">Add to favorites</string>
+    <string name="around_show_desc">Show description</string>
+    <string name="around_desc_title">Description</string>
+    <string name="set_a_title_for_your_trip">Set a title for your trip</string>
+    <string name="set_the_destination_city">Set the destination city</string>
+    <string name="around_add_trip_ok">Added!</string>
+    <string name="click_to_create_a_new_trip">Click + to create a new Trip</string>
+    <string name="no_favourites_added">No favourites added</string>
+    <string name="done">Done</string>
+</resources>

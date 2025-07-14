@@ -1,0 +1,5 @@
+Aggiugere barra di ricerca in alto
+
+Creare un raggio d'azione che evidenzia i POI
+
+Fumetto del POI con bottene "aggiungi ai preferiti", "aggiungi ad un viaggio", "naviga"
