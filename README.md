@@ -72,8 +72,3 @@ The Gradle project can be found under:
 TuristaFeliceTest/
 ```
 
-## Portfolio context
-
-My current professional focus is Java backend development. This project is kept public because it demonstrates broader Java experience, REST API consumption, application architecture and integration with external services.
-
-See my [GitHub profile](https://github.com/afi-glich) for my current backend-focused work.
